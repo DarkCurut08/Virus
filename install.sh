@@ -10,6 +10,13 @@ cd /storage/emulated/0/
 mkdir Virus
 cd /data/data/com.termux/files/home/
 chmod +x Moreno77.sh
+pkg install cowsay
+clear
+pkg install python2
+clear
+pip2 install lolcat
+clear
+pkg install figlet
 clear
 figlet 'Curut BlackHat' | lolcat
 sleep 0.4
