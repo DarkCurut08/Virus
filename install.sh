@@ -28,6 +28,7 @@ echo " [!] Loading....." | lolcat
 sleep 0.4
 clear
 figlet 'Curut BlackHat' | lolcat
+pkg install wget
 sleep 0.4
 clear
 figlet 'DarkCurut08' | lolcat
