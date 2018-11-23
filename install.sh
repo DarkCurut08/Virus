@@ -32,7 +32,7 @@ echo " [!] Loading....." | lolcat
 sleep 0.4
 clear
 figlet 'Curut BlackHat' | lolcat
-echo $f
+echo $d
 pkg install wget
 sleep 0.4
 clear
